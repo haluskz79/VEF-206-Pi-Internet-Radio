@@ -1,1 +1,1 @@
-py script and its subfolders have to be put inside "/home/pi/radio" folder, conf.txt file provides current station number and volume level info
+py script and its subfolders have to be put inside "/home/pi/radio" folder, conf.txt file provides current station number and volume level info, complete project instructions are here: https://www.instructables.com/1970s-VEF-206-Pi-Internet-Radio/
